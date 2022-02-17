@@ -131,7 +131,7 @@ body {
   .hero__right {
     width: 45%;
   }
-  .hero__left__form__input {
+  .hero__left__form {
     margin-bottom: 4rem;
   }
 }
